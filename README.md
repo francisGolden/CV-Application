@@ -1,4 +1,6 @@
 # CV-Application
+[Live](https://cv-application-ochre.vercel.app/)
+
 First simple app made with React.
 Most troublesome thing I faced in this project was definitely the State not updating when needed.
 In order to solve this I passed in a function instead of an object in the setState: so instead of:
